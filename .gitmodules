@@ -1,0 +1,15 @@
+[submodule "DigitalComputerLab2"]
+	path = DigitalComputerLab2
+	url = https://github.com/Orisadek/DigitalComputerLab2.git
+[submodule "DigitalComputerLab3"]
+	path = DigitalComputerLab3
+	url = https://github.com/Orisadek/DigitalComputerLab3.git
+[submodule "DigitalComputerLab4"]
+	path = DigitalComputerLab4
+	url = https://github.com/Orisadek/DigitalComputerLab4.git
+[submodule "finalProjectDigitalC"]
+	path = finalProjectDigitalC
+	url = https://github.com/Orisadek/finalProjectDigitalC.git
+[submodule "DigitalComputerLab1"]
+	path = DigitalComputerLab1
+	url = https://github.com/Orisadek/DigitalComputerLab1.git
